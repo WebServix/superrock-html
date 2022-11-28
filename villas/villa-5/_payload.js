@@ -1,1 +1,1 @@
-export default {data:{"5jnu4O7w5l":{data:{id:5,attributes:{name:"5",createdAt:"2022-11-28T15:25:38.586Z",updatedAt:"2022-11-28T15:48:54.964Z",publishedAt:"2022-11-28T15:48:54.959Z"}},meta:{}}},prerenderedAt:1669650645176}
+export default {data:{"5jnu4O7w5l":{data:{id:5,attributes:{name:"5",createdAt:"2022-11-28T15:25:38.586Z",updatedAt:"2022-11-28T15:48:54.964Z",publishedAt:"2022-11-28T15:48:54.959Z"}},meta:{}}},prerenderedAt:1669674698338}
