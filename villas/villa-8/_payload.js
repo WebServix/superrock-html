@@ -1,1 +1,1 @@
-export default {data:{CWoF6I7lQW:{data:{id:8,attributes:{name:"gg",createdAt:"2022-11-28T15:47:01.524Z",updatedAt:"2022-11-28T15:50:12.675Z",publishedAt:"2022-11-28T15:50:12.669Z"}},meta:{}}},prerenderedAt:1669674699314}
+export default {data:{CWoF6I7lQW:{data:{id:8,attributes:{name:"gg",createdAt:"2022-11-28T15:47:01.524Z",updatedAt:"2022-11-28T15:50:12.675Z",publishedAt:"2022-11-28T15:50:12.669Z"}},meta:{}}},prerenderedAt:1669810666500}
