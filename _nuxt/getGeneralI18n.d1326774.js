@@ -1,0 +1,1 @@
+import{s as n}from"./Footer.dd7e185a.js";const o=async()=>{const t=await n("general-i18n",null,"?populate[0]=deep"),e={};for(const a of t.value.data.attributes.key_value)e[a.key]=a.value;return e};export{o as g};
